@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OIMSIOUIJDAN/OIMSIOUIJDAN/main/github%20header.jpg" 
+       width="90%" 
+       height="300"
+       style="object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(255, 183, 197, 0.2);"/>
+</p>
+
+
+
 <div align="center">
 
 # 🇲🇦 OUIJDAN OIMSI
