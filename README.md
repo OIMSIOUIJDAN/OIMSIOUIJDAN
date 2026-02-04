@@ -1,8 +1,15 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OIMSIOUIJDAN/OIMSIOUIJDAN/main/github%20header.jpg" 
-       width="90%" 
-       height="300"
-       style="object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(255, 183, 197, 0.2);"/>
+<div align="center" style="
+  width: 100%;
+  height: 300px;
+  background-image: url('https://raw.githubusercontent.com/OIMSIOUIJDAN/OIMSIOUIJDAN/main/github%20header.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  margin: 20px 0;
+  box-shadow: 0 4px 12px rgba(255, 183, 197, 0.2);
+">
+</div>
 </p>
 
 
