@@ -16,7 +16,9 @@
 
 </div>
 
----
+<p align="center">
+  <i>"The expert in anything was once a beginner."</i> – Helen Hayes
+</p>
 
 ## 👋 About Me
 
