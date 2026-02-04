@@ -1,16 +1,9 @@
-<div align="center">
-  <div style="
-    width: 90%;
-    height: 300px;
-    background: url('https://raw.githubusercontent.com/OIMSIOUIJDAN/OIMSIOUIJDAN/main/github%20header.jpg');
-    background-size: cover;
-    background-position: center;
-    border-radius: 10px;
-    margin: 20px auto;
-    box-shadow: 0 4px 12px rgba(255, 183, 197, 0.2);
-  "></div>
-</div>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OIMSIOUIJDAN/OIMSIOUIJDAN/main/github%20header.jpg" 
+       width="90%" 
+       height="300"
+       style="object-fit: cover; border-radius: 10px; box-shadow: 0 4px 12px rgba(255, 183, 197, 0.2);"/>
+</p>
 
 <div align="center">
 
