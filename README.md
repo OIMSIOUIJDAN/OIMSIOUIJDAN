@@ -58,7 +58,7 @@ Moroccan Computer Science undergraduate at **Harbin Institute of Technology, She
 |-------|-------|------------|----------------|
 | **Python** | Intermediate | 1.5+ years | Algorithms, Data Structures |
 | **C++** | Intermediate | 4 months | Competitive Programming, OOP |
-| **HTML/CSS** | Intermediate | Learning | Responsive Design, Modern Layouts |
+| **HTML/CSS** | beginner | Learning | Responsive Design, Modern Layouts |
 | **Git/GitHub** | Proficient | Project Management | Collaboration Workflows |
 | **Web Dev** | Beginner-Intermediate | Building Projects | Full-Stack Foundation |
 | **Turkish** | Intermediate | Self-Study | Conversational Fluency |
